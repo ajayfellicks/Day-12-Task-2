@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap");
+
+.bms {
+  width: 10rem;
+}
+
+.event {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 8rem;
+}
+
+h1 {
+  font-family: "Cabin", sans-serif;
+  font-weight: bold !important;
+  font-size: 2rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.event-img {
+  height: 15rem;
+}
+
+.date {
+  font-family: "Cabin", sans-serif;
+  font-size: 1rem;
+  color: gray;
+}
+
+.seat {
+  font-family: "Cabin", sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.main-section {
+  margin-bottom: 3rem !important;
+  margin-left: 3rem !important;
+  margin-right: 3rem !important;
+}
+
+.single-card {
+  margin-top: 3rem !important;
+}
